@@ -1,12 +1,9 @@
 import sys
 from random  import randint
 from PyQt6 import uic
-from PyQt6.QtGui import QPainter, QColor
-from PyQt6.QtWidgets import QWidget, QApplication, QPushButton
-import sys
-
 from PyQt6.QtGui import QPainter, QColor, QPen
 from PyQt6.QtWidgets import QWidget, QApplication, QPushButton
+import sys
 
 
 class Example(QWidget):
